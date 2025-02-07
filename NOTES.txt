@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+
+    
+<meta charset="UTF-8">
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+ 
+
+<!-- Open Graph Metadata -->
+    
+
+<meta property="og:title" content="Sailing Schedules (Search by Point)" />
+    
+<meta property="og:description" content="Search by Vessel. Please select the vessel name to trace the vessel schedules." />
+    
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/33/Evergreen_Logo.svg" />
+    
+<meta property="og:url" content="https://www.youtube.com/watch?v=qmwD9KBS6aw" />
+    
+    
+
+<title>Sailing Schedules</title>
+</head>
+
+<body>
+    
+<h1>Welcome to ShipmentLink</h1>
+    
+<p></p>
+
+</body>
+
+</html>
